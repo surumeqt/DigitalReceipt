@@ -1,9 +1,9 @@
 import { View, Text } from 'react-native'
 
-export default function index() {
+export default function upload() {
   return (
     <View>
-      <Text>index</Text>
+      <Text>upload</Text>
     </View>
   )
 }
